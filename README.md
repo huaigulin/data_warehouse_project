@@ -1,4 +1,4 @@
-# Data Engineering Project 3: Data Warehouse
+# Data Warehouse Project
 
 - The purpose of the project is to apply what I have learnt on data warehouses and AWS, and build an ETL pipeline for a database hosted on Amazon Redshift.
 
